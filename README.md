@@ -1,5 +1,4 @@
 # Traffic-Prediction
-# Traffic-Prediction-Model
 Created a Traffic Prediction Model using Machine Learning and Deep Learning prediction models such as RNN, GRU and LSTM.
 Uses an historical data set to train the model and make a prediction based on Junction and Time stamp.
 ![data rnn, 50,15,18](https://github.com/harshu1611/Traffic-Prediction-Model/assets/97937899/3a7b4bb3-df8c-4309-9abd-da839adf4e7c)
